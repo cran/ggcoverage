@@ -1,7 +1,7 @@
 Package: ggcoverage
 Type: Package
 Title: Visualize Genome Coverage with Various Annotations
-Version: 0.7.0
+Version: 0.7.1
 Authors@R: 
     person(given = "Yabing",
            family = "Song",
@@ -23,7 +23,7 @@ Suggests: rmarkdown, knitr, BiocStyle, htmltools,
         BSgenome.Hsapiens.UCSC.hg19, graphics
 VignetteBuilder: knitr
 NeedsCompilation: no
-Packaged: 2022-08-16 13:24:48 UTC; songyabing
+Packaged: 2022-09-06 02:13:41 UTC; songyabing
 Author: Yabing Song [aut, cre]
 Repository: CRAN
-Date/Publication: 2022-08-18 07:20:02 UTC
+Date/Publication: 2022-09-06 02:50:02 UTC
